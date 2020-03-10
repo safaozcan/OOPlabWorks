@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Safa_4801BDA_LW1_2\bin\Debug\Safa_4801BDA_LW1_2.exe.config
+C:\Users\asus\source\repos\Safa_4801BDA_LW1_2\bin\Debug\Safa_4801BDA_LW1_2.exe
+C:\Users\asus\source\repos\Safa_4801BDA_LW1_2\bin\Debug\Safa_4801BDA_LW1_2.pdb
+C:\Users\asus\source\repos\Safa_4801BDA_LW1_2\obj\Debug\Safa_4801BDA_LW1_2.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Safa_4801BDA_LW1_2\obj\Debug\Safa_4801BDA_LW1_2.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Safa_4801BDA_LW1_2\obj\Debug\Safa_4801BDA_LW1_2.exe
+C:\Users\asus\source\repos\Safa_4801BDA_LW1_2\obj\Debug\Safa_4801BDA_LW1_2.pdb

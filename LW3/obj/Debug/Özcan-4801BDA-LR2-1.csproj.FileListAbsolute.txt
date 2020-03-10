@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\Özcan\Özcan-4801BDA-LR2-1\bin\Debug\Özcan-4801BDA-LR2-1.exe.config
+C:\Users\asus\Desktop\Özcan\Özcan-4801BDA-LR2-1\bin\Debug\Özcan-4801BDA-LR2-1.exe
+C:\Users\asus\Desktop\Özcan\Özcan-4801BDA-LR2-1\bin\Debug\Özcan-4801BDA-LR2-1.pdb
+C:\Users\asus\Desktop\Özcan\Özcan-4801BDA-LR2-1\obj\Debug\Özcan-4801BDA-LR2-1.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Özcan\Özcan-4801BDA-LR2-1\obj\Debug\Özcan-4801BDA-LR2-1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Özcan\Özcan-4801BDA-LR2-1\obj\Debug\Özcan-4801BDA-LR2-1.exe
+C:\Users\asus\Desktop\Özcan\Özcan-4801BDA-LR2-1\obj\Debug\Özcan-4801BDA-LR2-1.pdb
